@@ -16,8 +16,10 @@ public class Logic {
         
         if(number == 1){
             System.out.println("number is 1");
+        } else if (number == 2) {
+            System.out.println("Number is 2");
         } else {
-            System.out.println("Number is not 1");
+            System.out.println("number is not 1 or 2");
         }
         
         //How could we test for 
